@@ -1,6 +1,6 @@
 # SPNDR — Privacy Policy
 
-**Last updated:** 4 August 2026
+**Last updated:** 4 October 2026
 
 SPNDR is a local-first expense tracker. Your expenses live on your device, not on our servers. This policy explains exactly what data exists, where it lives, and who can see it.
 
@@ -10,11 +10,11 @@ SPNDR is provided by **DIVYANSH BHARDWAJ** ("we", "us"). Questions: **hello.spnd
 
 ## 1. Short version
 
-- Your expenses, categories, budgets and receipt images are stored **only on your device**.
+- Your expenses, categories, and budgets are stored **only on your device**.
 - We do **not** run cloud sync, and we do **not** upload your financial data anywhere.
 - We use **no analytics, no advertising, and no third-party trackers**.
 - An account (email + password) is **optional** and is used only to sign in.
-- Receipt scanning runs **on your device**; receipt images are not sent to us or to any OCR service.
+- This version does **not** sell anything, scan receipts, or access your camera, photos, or microphone.
 
 ---
 
@@ -27,9 +27,7 @@ The following is written to a private database inside the app's own storage area
 - Expenses (amount, date, note, merchant, category)
 - Categories and budgets
 - Currency preference and cached exchange rates
-- Theme and reminder preferences
-- Receipt images, **only if** you save a scanned receipt with an expense
-- A cached copy of your subscription tier and signed-in email address, so the app works offline
+- A cached copy of your signed-in email address, so the app works offline
 
 Deleting the app removes all of this data from your device. We cannot recover it for you.
 
@@ -45,23 +43,13 @@ Your login session token is stored in the device keychain (iOS Secure Store). Yo
 
 **Deleting your account:** the app includes an in-app **Delete account** option (Account screen). This permanently deletes your login from our authentication provider. Expenses stored on your device are kept, and you can continue using SPNDR as a guest.
 
-## 4. Camera, photos, and receipt scanning
+## 4. Camera, photos, and microphone
 
-If you use receipt scanning, SPNDR requests access to your camera and/or photo library. The image is processed by **on-device text recognition** (Apple Vision / Google ML Kit) to pre-fill an expense.
-
-- The image and recognized text are **not sent to us or to any third-party OCR service**.
-- If you do not save the receipt with the expense, the image is discarded.
-- If you do save it, the image is stored in the app's private storage on your device and is deleted when you delete that expense.
-
-
+This version of SPNDR does not request access to your camera, photo library, or microphone, and it does not scan receipts.
 
 ## 5. Purchases
 
-SPNDR Pro is sold through the **Apple App Store**, and subscription status is managed using **RevenueCat**.
-
-- Payment is processed by Apple. We never receive your card details.
-- RevenueCat receives your purchase receipt and an app user identifier (your account ID when signed in, otherwise an anonymous ID) so your Pro access can be restored on your devices.
-- We do not receive your name, billing address or payment method from Apple.
+This version of SPNDR does not offer in-app purchases or subscriptions. We do not collect payment information, and we do not use a purchase or subscription service in this version.
 
 
 
@@ -70,14 +58,13 @@ SPNDR Pro is sold through the **Apple App Store**, and subscription status is ma
 SPNDR is offline-first. It makes network requests only for:
 
 - **Authentication**, if you sign in or create an account (Supabase)
-- **Purchases and entitlement checks** (Apple, RevenueCat)
 - **Currency exchange rates**, fetched from a public rates API. This request contains no personal or financial data; as with any web request, the provider can see your IP address.
 
 
 
 ## 7. Notifications
 
-The optional daily reminder is a **local notification scheduled on your device**. SPNDR does not use push notification servers and does not send your device token anywhere.
+This version of SPNDR does not schedule notifications and does not use push notification servers.
 
 ## 8. Analytics, advertising and tracking
 
@@ -89,7 +76,7 @@ CSV export uses the iOS share sheet. Where the exported file goes is entirely yo
 
 ## 10. Data retention
 
-- Device data is retained until you delete the expense, the receipt, or the app.
+- Device data is retained until you delete the expense or the app.
 - Account data is retained until you delete your account in the app.
 
 

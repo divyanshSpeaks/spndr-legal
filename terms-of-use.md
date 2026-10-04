@@ -1,6 +1,6 @@
 # SPNDR — Terms of Use
 
-**Last updated:** 4 August 2026
+**Last updated:** 4 October 2026
 
 These Terms of Use ("Terms") govern your use of the SPNDR mobile application ("SPNDR", "the app") provided by **DIVYANSH BHARDWAJ** ("we", "us"). By downloading or using SPNDR, you agree to these Terms. If you do not agree, do not use the app.
 
@@ -14,31 +14,17 @@ We grant you a personal, non-exclusive, non-transferable, revocable licence to u
 
 Creating an account is optional. If you create one, you are responsible for keeping your credentials confidential and for activity that occurs under your account. You must provide an email address you control. You may delete your account at any time from the Account screen in the app.
 
-## 3. SPNDR Pro, subscriptions and Lifetime
+## 3. Price
 
-SPNDR is free to use. **SPNDR Pro** unlocks additional features and is offered as:
-
-- **Monthly subscription** — auto-renewing
-- **Annual subscription** — auto-renewing
-- **Lifetime** — one-time purchase, non-renewing
-
-The following applies to purchases:
-
-- Payment is charged to your Apple ID at confirmation of purchase. Prices are shown in the app before purchase and vary by region.
-- Subscriptions **renew automatically** unless auto-renew is turned off at least **24 hours before the end of the current period**. Your Apple ID is charged for renewal within 24 hours before the period ends.
-- You can manage or cancel subscriptions in **Settings → your Apple ID → Subscriptions** on your device. Deleting the app does not cancel a subscription.
-- If a free trial is offered, any unused portion is forfeited when you purchase a subscription.
-- **Lifetime** grants access to SPNDR Pro's **on-device** features for as long as the app is available and supported. Features that would require ongoing server costs (for example, future cloud services) may be offered separately and are not guaranteed to be included.
-
-
+This version of SPNDR is free. It does not offer in-app purchases, subscriptions, or a paid tier. If a later version adds paid features, they will be sold through the Apple App Store, and these Terms will be updated before that version is released.
 
 ## 4. Refunds
 
-Purchases are processed by Apple, and refunds are handled by Apple under its own policies. We cannot issue refunds directly. Refund requests can be submitted at [reportaproblem.apple.com](https://reportaproblem.apple.com).
+This version has nothing to refund. If a later version adds purchases, those purchases are processed by Apple, and refunds are handled by Apple under its own policies. We cannot issue refunds directly.
 
 ## 5. Restoring purchases
 
-If you reinstall SPNDR or use a new device, use **Restore purchases** in the app while signed in to the same Apple ID to regain Pro access.
+This version has no purchases to restore, and the app does not include a Restore purchases action.
 
 ## 6. Your data and backups
 
@@ -46,7 +32,7 @@ SPNDR stores your expenses on your device. We do not hold a copy, and we cannot 
 
 ## 7. Not financial advice
 
-SPNDR is a personal record-keeping and budgeting tool. Its charts, summaries and any calculated figures are informational only and do not constitute financial, tax, accounting, or investment advice. Receipt scanning uses automated text recognition and can misread values; you are responsible for verifying every entry before relying on it.
+SPNDR is a personal record-keeping and budgeting tool. Its charts, summaries and any calculated figures are informational only and do not constitute financial, tax, accounting, or investment advice. You are responsible for the entries you save.
 
 ## 8. Acceptable use
 
@@ -54,7 +40,7 @@ You agree not to use SPNDR for unlawful purposes, not to interfere with or disru
 
 ## 9. Availability and changes
 
-We may update, change, or discontinue features of SPNDR. We aim to give reasonable notice of significant changes but do not guarantee uninterrupted availability, particularly of third-party services such as authentication or purchase processing.
+We may update, change, or discontinue features of SPNDR. We aim to give reasonable notice of significant changes but do not guarantee uninterrupted availability, particularly of third-party services such as authentication.
 
 ## 10. Disclaimer of warranties
 
