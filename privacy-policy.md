@@ -14,7 +14,7 @@ SPNDR is provided by **DIVYANSH BHARDWAJ** ("we", "us"). Questions: **hello.spnd
 - We do **not** run cloud sync, and we do **not** upload your financial data anywhere.
 - We use **no analytics, no advertising, and no third-party trackers**.
 - An account (email + password) is **optional** and is used only to sign in.
-- This version does **not** sell anything, scan receipts, or access your camera, photos, or microphone.
+- This version does **not** sell anything.
 
 ---
 
@@ -43,17 +43,13 @@ Your login session token is stored in the device keychain (iOS Secure Store). Yo
 
 **Deleting your account:** the app includes an in-app **Delete account** option (Account screen). This permanently deletes your login from our authentication provider. Expenses stored on your device are kept, and you can continue using SPNDR as a guest.
 
-## 4. Camera, photos, and microphone
-
-This version of SPNDR does not request access to your camera, photo library, or microphone, and it does not scan receipts.
-
-## 5. Purchases
+## 4. Purchases
 
 This version of SPNDR does not offer in-app purchases or subscriptions. We do not collect payment information, and we do not use a purchase or subscription service in this version.
 
 
 
-## 6. Network connections
+## 5. Network connections
 
 SPNDR is offline-first. It makes network requests only for:
 
@@ -62,37 +58,37 @@ SPNDR is offline-first. It makes network requests only for:
 
 
 
-## 7. Notifications
+## 6. Notifications
 
 This version of SPNDR does not schedule notifications and does not use push notification servers.
 
-## 8. Analytics, advertising and tracking
+## 7. Analytics, advertising and tracking
 
 SPNDR contains **no analytics SDK, no advertising SDK, and no cross-app or cross-site tracking**. We do not sell or share personal data, and we do not build user profiles.
 
-## 9. Exporting your data
+## 8. Exporting your data
 
 CSV export uses the iOS share sheet. Where the exported file goes is entirely your choice; once shared, that copy is outside SPNDR's control and this policy no longer governs it.
 
-## 10. Data retention
+## 9. Data retention
 
 - Device data is retained until you delete the expense or the app.
 - Account data is retained until you delete your account in the app.
 
 
 
-## 11. Children
+## 10. Children
 
 SPNDR is not directed at children under 13, and we do not knowingly collect personal information from them.
 
-## 12. Your rights
+## 11. Your rights
 
 Because your financial data stays on your device, you control it directly: edit or delete any entry in the app, export it as CSV, or delete the app to erase it. For account data, you can delete your account in-app at any time, or contact us at **hello.spndr@gmail.com** with a request regarding access, correction, or deletion.
 
-## 13. Changes to this policy
+## 12. Changes to this policy
 
 If this policy changes materially, we will update the "Last updated" date above and, where appropriate, note the change in the app or on the store listing.
 
-## 14. Contact
+## 13. Contact
 
 **DIVYANSH BHARDWAJ** — **hello.spndr@gmail.com**
